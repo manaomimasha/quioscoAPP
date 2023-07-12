@@ -8,9 +8,9 @@ const Sidebar = () => {
   return (
     <>
       <Image
-        width={300}
-        height={100}
-        src="/assets/img/logo.svg"
+        width={430}
+        height={180}
+        src="/assets/img/logo.jpg"
         alt="imagen logotipo"
       />
 

@@ -8,8 +8,8 @@ const Categoria = ({ categoria }) => {
   return (
     <div
       className={`${
-        categoriaActual?.id === id ? "bg-amber-400" : ""
-      } flex items-center gap-4 w-full border p-5 hover:bg-amber-400`}
+        categoriaActual?.id === id ? "bg-green-300" : ""
+      } flex items-center gap-4 w-full border p-5 hover:bg-sky-300`}
     >
       <Image
         width={70}
