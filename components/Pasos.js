@@ -1,9 +1,9 @@
 import { useRouter } from "next/router";
 
 const pasos = [
-  { paso: 1, nombre: "Menú", url: "/" },
-  { paso: 2, nombre: "Resumen", url: "/resumen" },
-  { paso: 3, nombre: "Datos y Total", url: "/total" },
+  { paso: 1, nombre: "Paso1: Menú", url: "/" },
+  { paso: 2, nombre: "Paso2: Resumen", url: "/resumen" },
+  { paso: 3, nombre: "Paso3: Datos y Total", url: "/total" },
 ];
 
 const Pasos = () => {
